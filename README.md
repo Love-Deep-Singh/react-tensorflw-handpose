@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hand Pose Recognition App
 This React application leverages TensorFlow's Hand Pose Recognition model and React Webcam to track and visualize hand movements in real-time. Using advanced machine learning, the app detects and traces hand poses directly on the screen, providing an interactive experience for users. The app is built with React for seamless user interaction and TensorFlow.js for on-device pose estimation.
 
@@ -16,3 +17,13 @@ Clone this repository.
 Install dependencies with npm install.
 Start the development server with npm run dev.
 Ensure webcam permissions are enabled for hand pose detection.
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> master
